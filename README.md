@@ -1,21 +1,21 @@
-# Flutter - Movie Listing App
+# Flutter - Sorting_Hat Quiz
 
-#A Static Movie Listing Ui page 
+#A fun Harry Potter Sorting Hat Quiz fot potterheads
 
 
 ## ScreenShots
 <p align="center">
-<img src="https://github.com/palak2665/Movie_Listing/blob/main/ScreenShots/ss (1).png?raw=true" width ="25%">
-<img src="https://github.com/palak2665/Movie_Listing/blob/main/ScreenShots/ss (8).png?raw=true" width ="25%">
-<img src="https://github.com/palak2665/Movie_Listing/blob/main/ScreenShots/ss (2).png?raw=true" width ="25%">
-<img src="https://github.com/palak2665/Movie_Listing/blob/main/ScreenShots/ss (3).png?raw=true" width ="25%">
-<p align="center"><img src="https://github.com/palak2665/Movie_Listing/blob/main/ScreenShots/ss (4).png?raw=true" width ="25%">
-<img src="https://github.com/palak2665/Movie_Listing/blob/main/ScreenShots/ss (5).png?raw=true" width ="25%">
-<img src="https://github.com/palak2665/Movie_Listing/blob/main/ScreenShots/ss (6).png?raw=true" width ="25%">
-<img src="https://github.com/palak2665/Movie_Listing/blob/main/ScreenShots/ss (7).png?raw=true" width ="25%">
+<img src="https://github.com/palak2665/Movie_Listing/blob/main/ScreenShots/ss_1.png?raw=true" width ="25%">
+<img src="https://github.com/palak2665/Movie_Listing/blob/main/ScreenShots/ss_2.png?raw=true" width ="25%">
+<img src="https://github.com/palak2665/Movie_Listing/blob/main/ScreenShots/ss_3.png?raw=true" width ="25%">
+<img src="https://github.com/palak2665/Movie_Listing/blob/main/ScreenShots/ss_4.png?raw=true" width ="25%">
+<p align="center"><img src="https://github.com/palak2665/Movie_Listing/blob/main/ScreenShots/ss_5.png?raw=true" width ="25%">
+<img src="https://github.com/palak2665/Movie_Listing/blob/main/ScreenShots/ss_6.png?raw=true" width ="25%">
+<img src="https://github.com/palak2665/Movie_Listing/blob/main/ScreenShots/ss_17.png?raw=true" width ="25%">
+<img src="https://github.com/palak2665/Movie_Listing/blob/main/ScreenShots/ss_8.png?raw=true" width ="25%">
 </p>
 
-# Movie Listing
+# Harry-Potter Sorting-Hat Quiz
 
 A new Flutter project.
 
