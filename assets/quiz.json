@@ -1,0 +1,233 @@
+{
+    "results": [
+        {
+            "question": "Which class would you like the most?",
+            "answers": [
+                {
+                    "text": "Potions",
+                    "score": 4
+                },
+                {
+                    "text": "Herbology(study of magical plants)",
+                    "score": 3
+                },
+                {
+                    "text": "Charms",
+                    "score": 2
+                },
+                {
+                    "text": "Defense against the dark arts",
+                    "score": 1
+                }
+                
+            ]
+        },
+        {
+            "question": "Which ability would you like to have?",
+            "answers": [
+                {
+                    "text": "Mind Control",
+                    "score": 4
+                },
+                {
+                    "text": "Super Strength",
+                    "score": 3
+                },
+                {
+                    "text": "Extreme Intelligence",
+                    "score": 2
+                },
+                {
+                    "text": "Fly",
+                    "score": 1
+                }
+                
+            ]
+            
+        },
+        {
+            "question": "Which animal would you choose for your Hogwarts pet?",
+            "answers": [
+                {
+                    "text": "Rat",
+                    "score": 4
+                },
+                {
+                    "text": "Toad",
+                    "score": 3
+                },
+                {
+                    "text": "Owl",
+                    "score": 2
+                },
+                {
+                    "text": "Cat",
+                    "score": 1
+                }
+                
+            ]
+           
+        },
+        {
+            "question": "Which flavour of Bertie Bott's Beans would like best?",
+            "answers": [
+                {
+                    "text": "Chocolate",
+                    "score": 4
+                },
+                {
+                    "text": "Peanut Butter",
+                    "score": 3
+                },
+                {
+                    "text": "Licorice",
+                    "score": 2
+                },
+                {
+                    "text": "Chilli Pepper",
+                    "score": 1
+                }
+                
+            ]
+           
+        },
+        {
+            "question": "What would you have done about Hagrid's dragon?",
+           
+            "answers": [
+                {
+                    "text": "Give it to the right person at the Ministry of Magic",
+                    "score": 4
+                },
+                {
+                    "text": "Let it Go",
+                    "score": 3
+                },
+                {
+                    "text": "Told Dumbledore",
+                    "score": 2
+                },
+                {
+                    "text": "Raised it yourself",
+                    "score": 1
+                }
+                
+            ]
+        },
+        {
+            "question": "Which position in Quidditch would you like to play?",
+            "answers": [
+                {
+                    "text": "Bludger",
+                    "score": 4
+                },
+                {
+                    "text": "Keeper",
+                    "score": 3
+                },
+                {
+                    "text": "Chaser",
+                    "score": 2
+                },
+                {
+                    "text": "Seeker",
+                    "score": 1
+                }
+                
+            ]
+           
+        },
+        {
+            "question": "If you had a portrait that guarded your room, what would it be?",
+            "answers": [
+                {
+                    "text": "Snake",
+                    "score": 4
+                },
+                {
+                    "text": "Knight",
+                    "score": 3
+                },
+                {
+                    "text": "Unicorn",
+                    "score": 2
+                },
+                {
+                    "text":  "Fat Lady",
+                    "score": 1
+                }
+                
+            ]
+           
+        },
+        {
+            "question": "Who would you MOST like to turn into a toad?",
+            "answers": [
+                {
+                    "text": "Hagrid",
+                    "score": 4
+                },
+                {
+                    "text":  "Professor Snape",
+                    "score": 3
+                },
+                {
+                    "text":  "You-Know-Who",
+                    "score": 2
+                },
+                {
+                    "text": "Draco Malfoy",
+                    "score": 1
+                }
+                
+            ]
+           
+        },
+        {
+            "question": "What is your BEST quality?",
+            "answers": [
+                {
+                    "text": "Confident",
+                    "score": 4
+                },
+                {
+                    "text": "Hard Working",
+                    "score": 3
+                },
+                {
+                    "text": "Smart",
+                    "score": 2
+                },
+                {
+                    "text": "Brave",
+                    "score": 1
+                }
+                
+            ]
+           
+        },
+        {
+            "question": "What would you want to be when you grow up?",
+            "answers": [
+                {
+                    "text":  "Member of the Ministry of Magic",
+                    "score": 4
+                },
+                {
+                    "text": "Professional Quidditch Player",
+                    "score": 3
+                },
+                {
+                    "text":  "A Professor at Hogwarts",
+                    "score": 2
+                },
+                {
+                    "text": "An Auror (fight dark wizards)",
+                    "score": 1
+                }
+                
+            ]
+           
+        }
+    ]
+}
