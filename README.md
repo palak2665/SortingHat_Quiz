@@ -5,14 +5,14 @@
 
 ## ScreenShots
 <p align="center">
-<img src="https://github.com/palak2665/Movie_Listing/blob/main/ScreenShots/ss_1.png?raw=true" width ="25%">
-<img src="https://github.com/palak2665/Movie_Listing/blob/main/ScreenShots/ss_2.png?raw=true" width ="25%">
-<img src="https://github.com/palak2665/Movie_Listing/blob/main/ScreenShots/ss_3.png?raw=true" width ="25%">
-<img src="https://github.com/palak2665/Movie_Listing/blob/main/ScreenShots/ss_4.png?raw=true" width ="25%">
-<p align="center"><img src="https://github.com/palak2665/Movie_Listing/blob/main/ScreenShots/ss_5.png?raw=true" width ="25%">
-<img src="https://github.com/palak2665/Movie_Listing/blob/main/ScreenShots/ss_6.png?raw=true" width ="25%">
-<img src="https://github.com/palak2665/Movie_Listing/blob/main/ScreenShots/ss_17.png?raw=true" width ="25%">
-<img src="https://github.com/palak2665/Movie_Listing/blob/main/ScreenShots/ss_8.png?raw=true" width ="25%">
+<img src="https://github.com/palak2665/Movie_Listing/blob/main/assets/ScreenShots/ss_1.png?raw=true" width ="25%">
+<img src="https://github.com/palak2665/Movie_Listing/blob/main/assets/ScreenShots/ss_2.png?raw=true" width ="25%">
+<img src="https://github.com/palak2665/Movie_Listing/blob/main/assets/ScreenShots/ss_3.png?raw=true" width ="25%">
+<img src="https://github.com/palak2665/Movie_Listing/blob/main/assets/ScreenShots/ss_4.png?raw=true" width ="25%">
+<p align="center"><img src="https://github.com/palak2665/Movie_Listing/blob/main/assets/ScreenShots/ss_5.png?raw=true" width ="25%">
+<img src="https://github.com/palak2665/Movie_Listing/blob/main/assets/ScreenShots/ss_6.png?raw=true" width ="25%">
+<img src="https://github.com/palak2665/Movie_Listing/blob/main/assets/ScreenShots/ss_17.png?raw=true" width ="25%">
+<img src="https://github.com/palak2665/Movie_Listing/blob/main/assets/ScreenShots/ss_8.png?raw=true" width ="25%">
 </p>
 
 # Harry-Potter Sorting-Hat Quiz
