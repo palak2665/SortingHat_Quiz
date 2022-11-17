@@ -11,7 +11,7 @@
 <img src="https://github.com/palak2665/SortingHat_Quiz/blob/main/assets/ScreenShots/ss_4.png?raw=true" width ="20%">
 <p align="center"><img src="https://github.com/palak2665/SortingHat_Quiz/blob/main/assets/ScreenShots/ss_5.png?raw=true" width ="20%">
 <img src="https://github.com/palak2665/SortingHat_Quiz/blob/main/assets/ScreenShots/ss_6.png?raw=true" width ="20%">
-<img src="https://github.com/palak2665/SortingHat_Quiz/blob/main/assets/ScreenShots/ss_17.png?raw=true" width ="20%">
+<img src="https://github.com/palak2665/SortingHat_Quiz/blob/main/assets/ScreenShots/ss_7.png?raw=true" width ="20%">
 <img src="https://github.com/palak2665/SortingHat_Quiz/blob/main/assets/ScreenShots/ss_8.png?raw=true" width ="20%">
 </p>
 
